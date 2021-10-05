@@ -1,3 +1,8 @@
-# ac_cc_solution
+# Actiong&Cognition: Computational Cognition Project
 
-Solutions for Action and Cognition: Computational Cognition
+Authors:
+- Victoria Stobe (vstobe@uos.de)
+- Benjamin Wulff (bwulff@uos.de)
+
+Dataset:
+[Synchronized Brainwave (ver.2)](https://www.kaggle.com/berkeley-biosense/synchronized-brainwave-dataset/version/2)
